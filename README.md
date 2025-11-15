@@ -1,2 +1,2 @@
-# recommendation_system.py
+#AI_Project.
 Actividad formativa GitHub Copilot
